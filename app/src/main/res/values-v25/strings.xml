@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- A short label and long label to be used for the shortcut, depending on how much room
+        is available. -->
+    <string name="static_shortcut_long_label">long static label</string>
+    <string name="static_shortcut_short_label">short static</string>
+</resources>
